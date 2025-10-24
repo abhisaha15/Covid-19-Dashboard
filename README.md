@@ -26,7 +26,7 @@ The dataset used for this ETL pipeline and Power BI dashboard is stored in a com
 - **File Name:** `compact_covid_data.csv.gz`
 - **Format:** GZIP-compressed CSV
 - **Original Size:** ~137 MB
-- **Compressed Size:** ~[Insert actual compressed size]
+- **Compressed Size:** ~18.4 MB
 
 ⚠️ If you download this file manually, please extract it before loading into any tools that do not support `.gz` files directly.
 
